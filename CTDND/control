@@ -1,0 +1,9 @@
+Package: com.AndyIbanez.CTDND
+Name: Sideswitch Do Not Disturb.
+Depends: firmware (>= 5.0), com.andyibanez.SideSwitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Do Not Disturb Toggle for SideSwitch.
+Maintainer: Leonnears
+Author: Leonnears
+Section: Addons (Sideswitch Toggles)

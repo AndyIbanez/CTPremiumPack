@@ -1,0 +1,9 @@
+Package: com.AndyIbanez.CTAirplaneMode
+Name: Sideswitch Airplane Mode Toggle
+Depends: firmware (>= 5.0), com.andyibanez.Sideswitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Toggle Airplane mode with your phone's sideswitch.
+Maintainer: Leonnears
+Author: Leonnears
+Section: Addons (SideSwitch Toggles)

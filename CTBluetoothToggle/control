@@ -1,0 +1,9 @@
+Package: com.AndyIbanez.CTBluetoothToggle
+Name: Bluetooth Toggle for Sideswitch.
+Depends: firmware (>= 5.0), com.andyibanez.Sideswitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Bluetooth Toggle for SideSwitch.
+Maintainer: Leonnears
+Author: Leonnears
+Section: Addons (SideSwitch Toggles)

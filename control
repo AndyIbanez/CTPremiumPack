@@ -1,0 +1,9 @@
+Package: com.AndyIbanez.CydeswitchPremiumPack
+Name: Cydeswitch Premium Pack
+Depends: firmware (>= 5.0), com.andyibanez.Sideswitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A set of essential toggles for Cydeswitch: Airplane Mode, Do Not Disturb, Wi-Fi, and Bluetooth.
+Maintainer: Andy Ibanez
+Author: Andy Ibanez
+Section: Addons (Cydeswitch Toggles)
